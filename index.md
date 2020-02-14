@@ -1,4 +1,4 @@
-# s4na🐧(Nabetani)
+# s4na🐧/ Nabetani
 
 ## SNS
 
