@@ -1,7 +1,9 @@
-# s4na.github.io
+# s4na🐧(Nabetani)
 
-- [Twitter](https://twitter.com/s4na_penguin)
-- [はてなブログ](https://s4na.hatenablog.com/)
-- [Qiita](https://qiita.com/s4na_penguin)
-- [Speaker Deck](https://speakerdeck.com/s4na)
-- [GitHub](https://github.com/s4na)
+## SNS
+
+- [ブログ@s4naのテックブログ](https://s4na.hatenablog.com/)
+- [Qiita@s4na_penguin](https://qiita.com/s4na_penguin)
+- [Speaker Deck@s4na](https://speakerdeck.com/s4na)
+- [GitHub@s4na](https://github.com/s4na)
+- [Twitter@s4na_penguin](https://twitter.com/s4na_penguin)
