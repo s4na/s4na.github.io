@@ -8,6 +8,10 @@ Nabetani, s4na, s4na_penguin
 - [OSSへのPRまとめ.md](https://gist.github.com/s4na/0082c7733b88c64837e5e243e6b07466)
 - [Connpass](https://connpass.com/user/s4na_penguin/)
 
+### アクトインディ開発者ブログへの投稿
+
+- [失敗事例の共有。テストが実行できていないのにCI/CDが通ってリリースしてしまった話](https://tech.actindi.net/2020/09/10/144632)
+
 ## SNSのリンク
 
 <!-- - [Qiita](https://qiita.com/s4na_penguin) -->
