@@ -12,11 +12,12 @@ Nabetani, s4na, s4na_penguin
 
 ### アクトインディ開発者ブログへの投稿
 
+- [Sunspotを使いRailsでSolrの環境構築を行う方法](https://tech.actindi.net/2021/01/22/184415)
 - [失敗事例の共有。テストが実行できていないのにCI/CDが通ってリリースしてしまった話](https://tech.actindi.net/2020/09/10/144632)
 
 ## 自作サービス
 
-[twi-note](https://github.com/s4na/twi-note#twi-note-)
+[twi-note](https://github.com/s4na/twi-note)
 
 ## SNSのリンク
 
