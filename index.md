@@ -8,7 +8,7 @@ Nabetani, s4na, s4na_penguin
 - [Scrapbox](https://scrapbox.io/s4na/)
 - [OSSへのPullRequestまとめ](https://gist.github.com/s4na/0082c7733b88c64837e5e243e6b07466)
 - [Connpass](https://connpass.com/user/s4na_penguin/)
-- [活動ログがわかりやすい、Laprasさんで作成したポートフォリオ](https://lapras.com/public/AJKN4HX)
+- [活動ログがわかりやすい、LAPRASさんで作成したポートフォリオ](https://lapras.com/public/AJKN4HX)
 
 ### アクトインディ開発者ブログへの投稿
 
