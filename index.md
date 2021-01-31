@@ -20,7 +20,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ### 自作サービス
 
-[twi-note](https://github.com/s4na/twi-note)
+- [ノートにツイートを貼れるサービス「twi-note」を作成しました - s4naのテックブログ](https://s4na.hatenablog.com/entry/2020/03/02/075358)
 
 ## SNSへのリンク
 
