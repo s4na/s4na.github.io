@@ -32,4 +32,4 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ## QRコード
 
-![qr-code](/assets/qr-code.svg)
+[リンク](./assets/qr-code.svg)
