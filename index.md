@@ -20,10 +20,16 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ### 自作サービス
 
-- [ノートにツイートを貼れるサービス「twi-note」を作成しました - s4naのテックブログ](https://s4na.hatenablog.com/entry/2020/03/02/075358)
+[ノートにツイートを貼れるサービス「twi-note」を作成しました - s4naのテックブログ](https://s4na.hatenablog.com/entry/2020/03/02/075358)
+
+[リポジトリ](https://github.com/s4na/twi-note)
 
 ## SNSへのリンク
 
 <!-- - [Speaker Deck](https://speakerdeck.com/s4na) -->
 - [GitHub](https://github.com/s4na)
 - [Twitter](https://twitter.com/s4na_penguin)
+
+## QRコード
+
+![qr-code](/assets/qr-code.svg)
