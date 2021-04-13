@@ -15,6 +15,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ### アクトインディブログへの投稿
 
+- [CIで使っているMySQLのメモリ使用量を調整した話](https://tech.actindi.net/2021/04/13/181410)
 - [目標を一つに絞ったらGemがリリースできた話](https://tech.actindi.net/2021/04/09/230918)
 - [Sunspotを使いRailsでSolrの環境構築を行う方法](https://tech.actindi.net/2021/01/22/184415)
 - [失敗事例の共有。テストが実行できていないのにCI/CDが通ってリリースしてしまった話](https://tech.actindi.net/2020/09/10/144632)
