@@ -19,7 +19,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 - [$bundle install を実行した際に "1 installed gem you directly depend on is looking for funding. Run `bundle fund` for details" と表示されたのでその意味を調べた](https://s4na.hatenablog.com/entry/2021/07/10/002721), 2021/07/10
 - [sass-railsを使っていて"Ruby Sass has reached end-of-life and should no longer be used."とエラーが表示されたら](https://s4na.hatenablog.com/entry/2021/02/22/004019), 2021/02/22
-- [最新版のDevise 4.7.3が入っている状態でOmniAuth 2.0.0をインストールすると、Rails Serverを起動することができない問題の対処方法](https://s4na.hatenablog.com/entry/2021/02/07/200503), 2021/02/07,
+- [最新版のDevise 4.7.3が入っている状態でOmniAuth 2.0.0をインストールすると、Rails Serverを起動することができない問題の対処方法](https://s4na.hatenablog.com/entry/2021/02/07/200503), 2021/02/07
 - [Karabiner Elementsに「Option Keyで "英数入力"と"かな入力"を切り替えを行うルール」を追加しました。](https://s4na.hatenablog.com/entry/2020/11/17/001655), 2020/11/17
 - [Sendagaya.rbで、RubyKaigi2020で頂いたりんごジュースを決めるためのくじ引きを作りました](https://s4na.hatenablog.com/entry/2020/09/07/221953), 2020/09/07
 - [has_many throughは直訳するとわかりやすい](https://s4na.hatenablog.com/entry/2020/03/24/143421), 2020/03/24
