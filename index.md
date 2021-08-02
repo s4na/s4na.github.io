@@ -6,12 +6,12 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ## アウトプット
 
-- [s4naのテックブログ](https://s4na.hatenablog.com/)
+- [はてなブログ：s4naのテックブログ](https://s4na.hatenablog.com/)
 - [Scrapbox](https://scrapbox.io/s4na/): まずは書くことを目的として、細かな記事をたくさん書いています。
 - [OSSへのPullRequestまとめ](https://gist.github.com/s4na/0082c7733b88c64837e5e243e6b07466)
 - [Qiita](https://qiita.com/s4na_penguin)
 - [Connpass](https://connpass.com/user/s4na_penguin/)
-- [活動ログがわかりやすい、LAPRASさんで作成したポートフォリオ](https://lapras.com/public/AJKN4HX)
+- [LAPRAS](https://lapras.com/public/AJKN4HX)
 
 ## ブログへの投稿一覧
 
