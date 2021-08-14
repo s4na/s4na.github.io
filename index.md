@@ -31,6 +31,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ### アクトインディ開発者ブログ
 
+- [Railsで #update のできるFormObjectを作る](https://tech.actindi.net/2021/08/15/001308), 2021/08/15
 - [CIで使っているMySQLのメモリ使用量を調整した話](https://tech.actindi.net/2021/04/13/181410), 2021/04/13
 - [目標を一つに絞ったらGemがリリースできた話](https://tech.actindi.net/2021/04/09/230918), 2021/04/09
 - [Sunspotを使いRailsでSolrの環境構築を行う方法](https://tech.actindi.net/2021/01/22/184415), 2021/01/22
