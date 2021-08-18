@@ -59,4 +59,4 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 ## QRコード
 
-[リンク](./assets/qr-code.svg)
+[リンク](./qr-code)
