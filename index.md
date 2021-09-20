@@ -12,7 +12,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 - [Connpass](https://connpass.com/user/s4na_penguin/)
 - [LAPRAS](https://lapras.com/public/AJKN4HX)
 
-## OSSへのPRまとめ
+## OSSへのPull Requestまとめ
 
 |リポジトリ|PR|
 |---|---|
