@@ -10,7 +10,7 @@ RailsメインでWebアプリケーションの開発を行っています。
 - [Scrapbox](https://scrapbox.io/s4na/): まずは書くことを目的として、細かな記事をたくさん書いています。
 - [Qiita](https://qiita.com/s4na_penguin)
 - [Connpass](https://connpass.com/user/s4na_penguin/)
-- [LAPRAS](https://lapras.com/public/AJKN4HX)
+- [LAPRAS](https://lapras.com/public/s4na)
 
 ## OSSへのPull Requestまとめ
 
