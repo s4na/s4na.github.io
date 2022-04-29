@@ -1,11 +1,13 @@
 # s4na
 
-## 仕事
+## 私について
 
-RailsメインでWebアプリケーションの開発を行っています。
+Webアプリの開発者です。
 
 ## アウトプット
 
+- [GitHub](https://github.com/s4na)
+<!-- - [Speaker Deck](https://speakerdeck.com/s4na) -->
 - [はてなブログ：s4naのテックブログ](https://s4na.hatenablog.com/)
 - [Scrapbox](https://scrapbox.io/s4na/): まずは書くことを目的として、細かな記事をたくさん書いています。
 - [Qiita](https://qiita.com/s4na_penguin)
@@ -68,10 +70,8 @@ RailsメインでWebアプリケーションの開発を行っています。
 
 [Kageuchi](https://rubygems.org/gems/kageuchi)
 
-## SNSへのリンク
+## 連絡先
 
-<!-- - [Speaker Deck](https://speakerdeck.com/s4na) -->
-- [GitHub](https://github.com/s4na)
 - [Twitter](https://twitter.com/s4na_penguin)
 
 ## QRコード
