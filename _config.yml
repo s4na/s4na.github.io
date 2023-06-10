@@ -3,3 +3,4 @@ url: "https://s4na.github.io/"
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
+google_analytics: G-KP72RB01BZ
