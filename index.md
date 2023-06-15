@@ -14,23 +14,6 @@ Webアプリの開発者です。
 - [Connpass](https://connpass.com/user/s4na_penguin/)
 - [LAPRAS](https://lapras.com/public/s4na)
 
-## OSSへのPull Requestまとめ
-
-|リポジトリ|PR|
-|---|---|
-|actindi/act-fluent-logger-rails|- [Replace Travis CI with GitHub Actions #68](https://github.com/actindi/act-fluent-logger-rails/pull/68)<br>- [Fix the name of the gemfile used by Appraisal](https://github.com/actindi/act-fluent-logger-rails/pull/69)|
-|pqrs-org/KE-complex_modifications|[Add a rule to switch English and Japanese with the Option key #772](https://github.com/pqrs-org/KE-complex_modifications/pull/772)|
-|actindi/act-fluent-logger-rails|- [Replace Travis CI with GitHub Actions #68](https://github.com/actindi/act-fluent-logger-rails/pull/68)<br>- [Fix the name of the gemfile used by Appraisal #69](https://github.com/actindi/act-fluent-logger-rails/pull/69)|
-|おめがシスターズホームページ|[サイト制作者一覧の作成、README＆ドキュメントの大幅改修、ディレクトリの整理、誤翻訳＆タイポの修正・・・などなど](https://github.com/omegasisters/homepage/commits?author=s4na)|
-|fjord/bootcamp|- [座席予約を管理したい #1148](https://github.com/fjordllc/bootcamp/issues/1148)<br>- [WIPで提出を提出した場合は通知されないようにする #1111](https://github.com/fjordllc/bootcamp/issues/1111)<br>- [現在、所属企業が必須になっていて、一般ユーザーはフィヨルド所属になっているが、所属企業の必須をやめて、一般ユーザーは所属なしにしたい。 #1088](https://github.com/fjordllc/bootcamp/issues/1088)<br>- [書籍のシール一括印刷したい #1145](https://github.com/fjordllc/bootcamp/issues/1145)<br>- [`User.company==nil`の時はプロフィール画面で`-`ではなく非表示 #1171](https://github.com/fjordllc/bootcamp/issues/1171)<br>- [Github を GitHub Projects に変更したい #1147](https://github.com/fjordllc/bootcamp/issues/1147)<br>- [Goodies を グッズ購入に変更したい #1146](https://github.com/fjordllc/bootcamp/issues/1146)<br>- [menu に Google Meet というリンクを追加したい #1144](https://github.com/fjordllc/bootcamp/issues/1144)|
-|rubygems/gems|[Add the supported version of Ruby #59](https://github.com/rubygems/gems/pull/59)|
-|jpmobile/jpmobile|[Fix markdown typo #166](https://github.com/jpmobile/jpmobile/pull/166)|
-|fullstaq-labs/fullstaq-ruby-website|[リンクの修正](https://github.com/fullstaq-labs/fullstaq-ruby-website/pull/3)|
-|ruby/ruby-signature|[リンクの修正](https://github.com/ruby/ruby-signature/pull/62)|
-|github/opensource.guide|[日本語への誤翻訳の修正](https://github.com/github/opensource.guide/pull/1424)|
-|github/opensource.guide|[Fixes typos in starting-a-project.md of Japanese translation.](https://github.com/github/opensource.guide/pull/1424)|
-|yasslab/railsguides.jp|[スペース修正 #1025](https://github.com/yasslab/railsguides.jp/pull/1025)|
-
 ## ブログへの投稿一覧
 
 ### s4naのテックブログ
